@@ -697,6 +697,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b983f4d6d06e84393986fdaf58f10abc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  difficulty: 3
 --- !u!114 &573513558
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1478,6 +1479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b983f4d6d06e84393986fdaf58f10abc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  difficulty: 1
 --- !u!114 &1542281922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1613,6 +1615,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b983f4d6d06e84393986fdaf58f10abc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  difficulty: 2
 --- !u!114 &1568283220
 MonoBehaviour:
   m_ObjectHideFlags: 0
